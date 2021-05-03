@@ -1,0 +1,15 @@
+{
+    "name": "dy/powerofficesuiteconnector",
+    "autoload": {
+        "psr-4": {
+            "Dy\\Powerofficesuiteconnector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dovlat",
+            "email": "dovlat93@gmail.com"
+        }
+    ],
+    "require": {}
+}
