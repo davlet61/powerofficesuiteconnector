@@ -24,8 +24,8 @@ function restRequest($method, $arguments){
 
 
 $userAuth = array(
-        'user_name' => 'admin',
-        'password' => md5('Kerem2016!'),
+        'user_name' => 'user',
+        'password' => md5('password'),
 );
 $appName = 'My SuiteCRM REST Client';
 $nameValueList = array();
